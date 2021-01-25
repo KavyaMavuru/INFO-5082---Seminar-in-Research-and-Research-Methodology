@@ -6,15 +6,12 @@ Fake News is one of the significant worries in our general public at this moment
 Analysis:
 
 •	The main significance of this project is to detect if the information is fake or real from the data provided by news headlines.
-
 •	This would help the researchers to combat COVID health misinformation. 
 
 Process:
 
 •	Initially, the data is cleaned and composed for analysis. 
-
 •	Then the data is analyzed using Natural Language processing (NLP) and Machine Learning (ML) which results to predict from the information if the news is fake or real. 
-
 •	Later on, this model is tuned and integrated to User Interface where, an input of news is given then the result fake or real will be exhibited. 
 
 
